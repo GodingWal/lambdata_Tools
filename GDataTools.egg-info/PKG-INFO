@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: GDataTools
+Version: 1.0
+Summary: Data Science Helper Functions
+Home-page: https://github.com/GodingWal/lambdata_Tools
+Author: Goding Wal
+Author-email: gwal325@gmail.com
+License: UNKNOWN
+Description: #List to Series and Column
+        This function takes your list, turns it into a series and
+        creates a column
+        
+         
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
